@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🔳 NA7LV COCKPIT INSTALLER FOR ASL3"
+echo "🔳 ZL1RFF COCKPIT INSTALLER FOR ASL3"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
 # 1. Install System Dependencies
